@@ -115,5 +115,9 @@ body {
   }
   .img_card__container {
     grid-row-start: 3;
+    grid-row-end: 0;
+  }
+  .footer {
+    grid-row-start: 4;
   }
 }
