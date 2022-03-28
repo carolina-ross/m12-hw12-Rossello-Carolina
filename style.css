@@ -78,6 +78,7 @@ body {
 }
 
 .footer {
+  grid-area: 3 / 1 / span 1 / span 2;
   display: grid;
   align-items: center;
   justify-items: center;
