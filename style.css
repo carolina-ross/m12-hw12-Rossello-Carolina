@@ -7,7 +7,7 @@
 
 body {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 300px auto;
   grid-template-rows: auto auto auto;
   font-family: 'Indie Flower', cursive;
   font-size: 1.2rem;
