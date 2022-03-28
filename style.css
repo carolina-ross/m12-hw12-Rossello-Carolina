@@ -100,7 +100,7 @@ body {
   }
   .nav__container {
     width: 80vw;
-    min-width: 300px;
+    min-width: 360px;
     grid-template-columns: repeat(4, 1fr);
   }
   .nav__link, .nav__link--active {
@@ -119,6 +119,7 @@ body {
   .img_card__container {
     grid-row-start: 3;
     grid-row-end: 0;
+    justify-items: center;
   }
   .footer {
     grid-row-start: 4;
